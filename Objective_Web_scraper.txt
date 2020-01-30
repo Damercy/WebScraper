@@ -1,0 +1,13 @@
+1) 2 programs in total --->  One for fetching data whenever it is executed and another program for calculating difference from two different files with input as time range/file name
+
+2) Automate this process of fetching data for a given start time. Ideally, it would end if a) the script is stopped b) There's no change in the data for say,1 hour. (Kinda impossible ,this second case though)
+
+
+1. #Later O1 (CALL)
+2. REALTIME CHANGE IN OI
+3. #CHANGE IN OI
+3. #LTP (CALL)
+4. #NET CHANGE (CALL)
+5. DIFF IN NET CHANGE (LATER - PREV)
+
+x2 for PUT side
