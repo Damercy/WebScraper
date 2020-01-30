@@ -29,5 +29,5 @@ It was a fun thing to build. I hope you liked it! :)
 ## Thanks for tuning in!
 
 [tolink]: https://github.com/Damercy/WebScraper/blob/master/Screenshots/NSEScreenshot.JPG 'NSE homepage'
-[filelink]: https://github.com/Damercy/WebScraper/blob/master/Screenshots/OutputScreenshot.JPG
+[filelink]: https://github.com/Damercy/WebScraper/blob/master/Screenshots/OutputScreenshot.JPG 'The .xls file'
 [Download]: https://chromedriver.chromium.org/downloads
